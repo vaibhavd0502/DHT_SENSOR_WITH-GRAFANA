@@ -5,8 +5,10 @@
     7  sudo update-locale LANG=en_IN.UTF-8
     8  cd /home/pun-admin/
     9  ll
-   10  ls
-   11  cd temp_monitor/
+   10 
+ls
+   11 
+cd temp_monitor/
    12  ll
    13  ls
    14  sudo apt update
